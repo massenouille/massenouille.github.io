@@ -30,12 +30,24 @@ h2{
 	color: #EEA2AD;
 	text-align: center;
 	text-shadow: 0px 5px 5px black;
+	display: none;
 }
 
 h3{
 	color: #FFFFFF;
 }
 
+
+nav{
+	text-align: center;
+}
+
+li.sommaire{
+	background-color: #121212;
+	border-radius: 5px;
+	padding: 5px 5px 5px 5px;
+	display: inline;
+}
 
 a{
 	color: #8B5F65;
