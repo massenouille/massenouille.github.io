@@ -58,8 +58,13 @@ a{
 	text-decoration: none;
 }
 
+section{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
 article{
-	margin-bottom: 20px;
+	margin: 5px 5px 5px 5px;
 	background-color: #121212;
 	border: transparent;
 	border-radius: 5px;
